@@ -1,10 +1,32 @@
 <h1 align="center">
-Hello World! I am Louis Zhang
+Hello there!
 </h1>
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Louis Zhang"
+        self.role = "Software Engineer"
+        self.language_spoken = ["en_US", "zh_CN"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=louis-zhangxa&hide=stars,contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
+- You are the ![Visitor Count](https://profile-counter.glitch.me/{louis-zhangxa}/count.svg) person in here
 - 👀 I’m interested in Coding and Traveling 
 - 💻 I’m currently DEEP learning React.js
 - 🧋 I’m looking to collaborate on Software development 
