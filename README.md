@@ -18,9 +18,9 @@ Hello, my name is Louis Zhang. I’m a software engineer who loves coding and co
 
 
 ✨Fun Facts!
-- I have two cats😸
+- I have two cats 😸
 - I like tea 🍵
-- My favorite National Park is Grand Canyon🏔
+- My favorite National Park is Grand Canyon 🏔
 
 ## Let's Connect 📲
 
