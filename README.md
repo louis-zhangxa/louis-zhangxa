@@ -23,9 +23,6 @@ me.say_hi()
 ```
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=louis-zhangxa&hide=stars,contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
-
 - You are the ![Visitor Count](https://profile-counter.glitch.me/{louis-zhangxa}/count.svg) person in here
 - 👀 I’m interested in Coding and Traveling 
 - 💻 I’m currently DEEP learning React.js
@@ -33,16 +30,18 @@ me.say_hi()
 - ⛳️ Open to everything!
 - 📫 Louiszhangwork@gmail.com
 
-
 ## About me
 
 Hello, my name is Louis Zhang. I’m a software engineer who loves coding and considers it a vital part of my life. I like the progression from being unfamiliar with new technology to be skilled with it. My journey in learning programming has had its challenges, but the process has been very rewarding and it’s a career path I love. 
+
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=louis-zhangxa&hide=stars,contribs,issues)" alt="Louis" />
 
 
 ✨Fun Facts!
 - I have two cats 😸
 - I like tea 🍵
 - My favorite National Park is Grand Canyon 🏔
+
 
 ## Let's Connect 📲
 
@@ -69,6 +68,7 @@ Hello, my name is Louis Zhang. I’m a software engineer who loves coding and co
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louis-zhangxa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ## Tools 🪛
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -83,7 +83,6 @@ Hello, my name is Louis Zhang. I’m a software engineer who loves coding and co
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-
 
 
 <!---
