@@ -24,11 +24,11 @@ me.say_hi()
 
 
 - You are the ![Visitor Count](https://profile-counter.glitch.me/{louis-zhangxa}/count.svg) person in here
-- 👀 I’m interested in Coding and Traveling 
-- 💻 I’m currently DEEP learning React.js
-- 🧋 I’m looking to collaborate on Software development 
-- ⛳️ Open to everything!
-- 📫 Louiszhangwork@gmail.com
+- 👀  I’m interested in Coding and Traveling 
+- 💻  I’m currently DEEP learning React.js
+- 🧋  I’m looking to collaborate on Software development 
+- ⛳️  Open to everything!
+- 📫  Louiszhangwork@gmail.com
 
 ## About me
 
