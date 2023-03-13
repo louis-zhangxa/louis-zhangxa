@@ -32,15 +32,9 @@ me.say_hi()
 
 ## About me
 
-Hello, my name is Louis Zhang. I’m a software engineer who loves coding and considers it a vital part of my life. I like the progression from being unfamiliar with new technology to be skilled with it. My journey in learning programming has had its challenges, but the process has been very rewarding and it’s a career path I love. 
-
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=louis-zhangxa&show_icons=true&hide=stars,contribs,issues)" alt="Louis'status" />
 
 
-✨Fun Facts!
-- I have two cats 😸
-- I like tea 🍵
-- My favorite National Park is Grand Canyon 🏔
 
 
 ## Let's Connect 📲
