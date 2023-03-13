@@ -49,8 +49,6 @@ me.say_hi()
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louis-zhangxa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=louis-zhangxa&show_icons=true&hide=stars,contribs,issues)" alt="Louis'status" />
 
 
