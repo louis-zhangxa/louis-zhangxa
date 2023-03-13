@@ -23,14 +23,6 @@ me.say_hi()
 ```
 
 
-- You are the ![Visitor Count](https://profile-counter.glitch.me/{louis-zhangxa}/count.svg) person in here
-- 👀  I’m interested in Coding and Traveling 
-- 💻  I’m currently learning React Hook
-- 🧋  I’m looking to collaborate on Software development 
-- ⛳️  Open to everything!
-- 📫  Louiszhangwork@gmail.com
-
-
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=louis-zhangxa&show_icons=true&hide=stars,contribs,issues)" alt="Louis'status" />
 
 
