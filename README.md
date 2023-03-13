@@ -30,7 +30,6 @@ me.say_hi()
 - ⛳️  Open to everything!
 - 📫  Louiszhangwork@gmail.com
 
-## About me
 
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=louis-zhangxa&show_icons=true&hide=stars,contribs,issues)" alt="Louis'status" />
 
